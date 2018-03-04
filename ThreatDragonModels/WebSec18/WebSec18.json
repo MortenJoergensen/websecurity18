@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "WebSec18",
+    "owner": "MortenJxrgensen",
+    "description": "Description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WebApp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "MortenJxrgensen"
+  }
+}
